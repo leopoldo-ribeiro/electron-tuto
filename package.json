@@ -1,0 +1,23 @@
+{
+  "name": "electron-tuto",
+  "version": "1.0.0",
+  "description": "Tutorial electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopoldo-ribeiro/electron-tuto.git"
+  },
+  "author": "Leopoldo Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leopoldo-ribeiro/electron-tuto/issues"
+  },
+  "homepage": "https://github.com/leopoldo-ribeiro/electron-tuto#readme",
+  "devDependencies": {
+    "electron": "^41.2.1"
+  }
+}
